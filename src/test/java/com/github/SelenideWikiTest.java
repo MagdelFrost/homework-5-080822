@@ -2,7 +2,6 @@ package com.github;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
-import com.codeborne.selenide.selector.ByText;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
